@@ -15,10 +15,10 @@
 
 - 📫 Reach me at : **sonaligupta5401@gmail.com**
 
-<h3>🛠 Tech Stack</h3>
+  <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | ES6 | C | Python
-- 🌐 &nbsp; HTML | CSS | ReactJS | Redux
+  - 💻 &nbsp; JavaScript | ES6 | C | Python
+  - 🌐 &nbsp; HTML | CSS | ReactJS | Redux
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
