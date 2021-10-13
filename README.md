@@ -7,8 +7,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 
-- 🔭 I’m currently working on Mini Projects with React and Redux
-- 🌱 I’m currently learning Backend Technologies : Node.js, Express and MongoDB
+- 🔭 &nbsp; I’m currently working on Mini Projects with React and Redux.
+- 🌱 &nbsp; I’m currently learning Backend Technologies : Node.js, Express and MongoDB.
 
 <h3>🛠 Tech Stack</h3>
 
