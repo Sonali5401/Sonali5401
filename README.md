@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Sonali 👋
+<h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**Sonali5401/Sonali5401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🕸️ &nbsp; Passionate about the **Web (WWW)** and I yearn to **simplify web for everyone**.
+- 🔭 &nbsp; Currently working on **Full Stack (AWS, MongoDB, Express.js, React, Node.js)** .
+- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Mini Projects with React and Redux
+- 🌱 I’m currently learning Backend Technologies : Node.js, Express and MongoDB
