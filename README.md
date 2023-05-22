@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies : Node.js, ExpressJS and MongoDB**
 
-- 🔭 I am currently working in **Robert Bosch, Bengaluru** .
+- 🔭 I am currently working in **Tech Mahindra Ltd, Bengaluru** .
 
 - 📫 Reach me at : **sonaligupta5401@gmail.com**
 
