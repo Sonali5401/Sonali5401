@@ -3,21 +3,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Sonali !</h1>
-<h3 align="center">A curious mind exploring Full Stack Development.</h3>
+<h3 align="center">A curious mind exploring UI Development.</h3>
 
 - 🔭 I’m currently working on **FrontEnd Projects with React+Redux**
 
 - 🕸️ I'm Passionate about **Solving Coding Challenges**.
 
-- 🌱 I’m currently learning **Backend Technologies : Node.js, ExpressJS and MongoDB**
-
-- 🔭 I am currently working in **Tech Mahindra Ltd, Bengaluru** .
+- 🔭 I am currently working in **Altimetrik India Pvt Ltd, Bengaluru** .
 
 - 📫 Reach me at : **sonaligupta5401@gmail.com**
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | ES6 | C | Python
+- 💻 &nbsp; JavaScript | ES6 
 - 🌐 &nbsp; HTML | CSS | ReactJS | Redux
 
 <h3 align="left">Connect with me:</h3>
