@@ -9,7 +9,9 @@
 
 - 🕸️ I'm Passionate about **Solving Coding Challenges**.
 
-- 🔭 I am currently working in **Altimetrik India Pvt Ltd, Bengaluru** .
+- 🔭 I am currently working under the payroll of **Altimetrik India Pvt Ltd, Bengaluru**.
+
+- 🔭 I am part of Monetization Commerce Development team in **Intuit, India**.
 
 - 📫 Reach me at : **sonaligupta5401@gmail.com**
 
